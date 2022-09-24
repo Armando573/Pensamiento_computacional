@@ -1,6 +1,6 @@
 # Area de Rectangulo
 1 Inicio
-2 Declarar base (numrico)
+2 Declarar base (numerico)
 3 Declarar altura (numerico)
 4 Declarar base (numerico)
 5 Mostrar base
