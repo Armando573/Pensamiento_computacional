@@ -9,3 +9,4 @@
 8 Mostrar altura
 9 mostrar area 
 10 Fin
+![image](https://user-images.githubusercontent.com/61428623/192122500-4156a05e-38f7-41c3-8e14-a7f2f5b12068.png)
