@@ -1,0 +1,16 @@
+Algoritmo sin_titulo
+	numero<- 0
+
+	Escribir "Ingresa tu numero"
+	Leer numero
+	si numero > 0 Entonces
+		Escribir  "numero positivo "
+	sino 
+		Escribir  "numero negativo "
+	FinSi
+	
+
+	
+	
+FinAlgoritmo
+
