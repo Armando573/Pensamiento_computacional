@@ -27,3 +27,6 @@ Algoritmo sin_titulo
 FinSi
 	
 FinAlgoritmo
+
+![image](https://user-images.githubusercontent.com/61428623/194728283-df690693-bc6e-424b-b3ca-80315aadb42d.png)
+
