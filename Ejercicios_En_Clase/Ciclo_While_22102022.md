@@ -14,9 +14,9 @@ Algoritmo sin_titulo
 		escribir "Te quedan ", intentos, " intentos"
 		
 		Si numusuario > numsec Entonces
-			Escribir numsec, "Tu numero es mayor"
+			Escribir  "Tu numero ", numusuario,  " es mayor al que debes adivinar"
 		SiNo
-			Escribir numsec, "Tú numero es menor"
+			Escribir  "Tú numero ", numusuario,  " es menor al que debes adivinar"
 		Fin Si
 		
 		 Escribir "Adivina un número entre el uno y el 100 "
@@ -34,4 +34,6 @@ Algoritmo sin_titulo
 FinAlgoritmo
 
 
-![image](https://user-images.githubusercontent.com/61428623/197363485-eb8389ba-3737-4c5e-aa4a-2ffaf0c21c16.png)
+
+![image](https://user-images.githubusercontent.com/61428623/197363628-15b1f414-023e-42d8-a0f3-d4c3ca6436ff.png)
+
